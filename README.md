@@ -10,3 +10,5 @@ Links:
 Netbeans IDE: https://netbeans.org/
 Launch4j: http://launch4j.sourceforge.net/
 
+Please see usage options in the video: https://youtu.be/u6z_yLmQm1o
+
