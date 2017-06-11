@@ -35,7 +35,7 @@ public class NEOS_GAMS extends javax.swing.JFrame {
     public static final JFileChooser fc = new JFileChooser();
     public File file;
     private static final String HOST = "neos-server.org";
-    private static final String PORT = "3332";
+    private static final String PORT = "3333";
     HashMap<String, String>  hTipo      = new HashMap<String, String>();
 
     private PrintStream standardOut;
