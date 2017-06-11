@@ -1,11 +1,13 @@
 # NEOS_GAMS
 Interface to solve GAMS models using NEOS Server (LP, MIP, NLP, MINLP, QP,...).
 
-This program was created using Netbeans IDE version 7.0.1 and, in fact, this directory is a netbeans probject.
+This program was created using Netbeans IDE version 7.0.1 with Java JDK 1.8.
+When you clone, this directory is a Netbeans project.
 
-The NEOS_GAMS.exe windows executable was generated using launch4j (http://launch4j.sourceforge.net/). 
+You can run the program NEOS_GAMS.jar provided in the directory "dist/" in Windows, Linux and Mac, using the following
+command in prompt:
 
-You can also run NEOS_GAMS.jar provided in the directory "dist/" in Windows, Linux and Mac.
+java -jar NEOS_GAMS.jar
 
 Links:
 Netbeans IDE: https://netbeans.org/
